@@ -18,7 +18,6 @@ for(int i=0;i<n;i++){
     if (a[i]==key){
         printf("element found at position  %d ",i+1);
         found=1;
-        break;
     }
 }
 if (found==0){
